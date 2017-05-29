@@ -1,7 +1,7 @@
 ---
 layout: post
 title: helloworld
-category: 生活
+category: 技术
 comments: true
 ---
 
