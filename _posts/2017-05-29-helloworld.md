@@ -8,7 +8,7 @@ comments: true
 >hello,world
 
 
-![百度](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
+![google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 
 ```cpp
